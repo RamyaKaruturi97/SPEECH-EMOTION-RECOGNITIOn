@@ -1,4 +1,4 @@
-# SPEECH-EMOTION-RECOGNITIOn
+# SPEECH-EMOTION-RECOGNITION
 Emotions play an integral role in our daily life, understanding a person's emotions will improve
 human interactions, make conversations more enjoyable. In addition to using words, a speaker
 communicates through body language, facial expressions, rhythm, and intonation. There are
